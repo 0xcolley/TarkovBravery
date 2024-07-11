@@ -1,7 +1,7 @@
 # Tarkov Bravery
 Tarkov Bravery was a fun side project inspired by Ultimate Bravery (https://www.ultimate-bravery.net/) with the Tarkov spin on it. The basic idea is that you click the button, get a randomized loadout, and buy it on the flea market then use it. </br>
 
-Feel free to deploy it yourself or use it at https://www.tarkovbravery.xyz (https://tarkov-bravery-frontend.vercel.app/ backup) </br>
+Feel free to deploy it yourself or use it at https://www.tarkovbravery.xyz 
 
 Please note that I own none of these assets, and they are owned by BattleStateGames. 
 
