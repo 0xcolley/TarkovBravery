@@ -1,0 +1,156 @@
+{
+    "data": {
+        "items": [
+            {
+                "id": "557ff21e4bdc2d89578b4586",
+                "name": "Tactical glasses",
+                "image512pxLink": "https://assets.tarkov.dev/557ff21e4bdc2d89578b4586-512.webp"
+            },
+            {
+                "id": "59e770b986f7742cbd762754",
+                "name": "Anti-fragmentation glasses",
+                "image512pxLink": "https://assets.tarkov.dev/59e770b986f7742cbd762754-512.webp"
+            },
+            {
+                "id": "5a16b672fcdbcb001912fa83",
+                "name": "Ops-Core FAST Visor",
+                "image512pxLink": "https://assets.tarkov.dev/5a16b672fcdbcb001912fa83-512.webp"
+            },
+            {
+                "id": "5a16b7e1fcdbcb00165aa6c9",
+                "name": "Ops-Core FAST multi-hit ballistic face shield",
+                "image512pxLink": "https://assets.tarkov.dev/5a16b7e1fcdbcb00165aa6c9-512.webp"
+            },
+            {
+                "id": "5aa2b923e5b5b000137b7589",
+                "name": "Round frame sunglasses",
+                "image512pxLink": "https://assets.tarkov.dev/5aa2b923e5b5b000137b7589-512.webp"
+            },
+            {
+                "id": "5aa2b986e5b5b00014028f4c",
+                "name": "Dundukk sport sunglasses",
+                "image512pxLink": "https://assets.tarkov.dev/5aa2b986e5b5b00014028f4c-512.webp"
+            },
+            {
+                "id": "5aa2b9aee5b5b00015693121",
+                "name": "RayBench Hipster Reserve sunglasses",
+                "image512pxLink": "https://assets.tarkov.dev/5aa2b9aee5b5b00015693121-512.webp"
+            },
+            {
+                "id": "5aa7e373e5b5b000137b76f0",
+                "name": "Altyn helmet face shield",
+                "image512pxLink": "https://assets.tarkov.dev/5aa7e373e5b5b000137b76f0-512.webp"
+            },
+            {
+                "id": "5aa7e3abe5b5b000171d064d",
+                "name": "ZSh-1-2M face shield",
+                "image512pxLink": "https://assets.tarkov.dev/5aa7e3abe5b5b000171d064d-512.webp"
+            },
+            {
+                "id": "5ac4c50d5acfc40019262e87",
+                "name": "Kolpak-1S face shield",
+                "image512pxLink": "https://assets.tarkov.dev/5ac4c50d5acfc40019262e87-512.webp"
+            },
+            {
+                "id": "5b432be65acfc433000ed01f",
+                "name": "6B34 anti-fragmentation glasses",
+                "image512pxLink": "https://assets.tarkov.dev/5b432be65acfc433000ed01f-512.webp"
+            },
+            {
+                "id": "5b46238386f7741a693bcf9c",
+                "name": "Kiver-M face shield",
+                "image512pxLink": "https://assets.tarkov.dev/5b46238386f7741a693bcf9c-512.webp"
+            },
+            {
+                "id": "5c0919b50db834001b7ce3b9",
+                "name": "Maska-1SCh face shield (Olive Drab)",
+                "image512pxLink": "https://assets.tarkov.dev/5c0919b50db834001b7ce3b9-512.webp"
+            },
+            {
+                "id": "5c0d32fcd174af02a1659c75",
+                "name": "Pyramex Proximity safety glasses",
+                "image512pxLink": "https://assets.tarkov.dev/5c0d32fcd174af02a1659c75-512.webp"
+            },
+            {
+                "id": "5c0e842486f77443a74d2976",
+                "name": "Maska-1SCh face shield (Killa Edition)",
+                "image512pxLink": "https://assets.tarkov.dev/5c0e842486f77443a74d2976-512.webp"
+            },
+            {
+                "id": "5c1a1cc52e221602b3136e3d",
+                "name": "Oakley SI M Frame safety glasses",
+                "image512pxLink": "https://assets.tarkov.dev/5c1a1cc52e221602b3136e3d-512.webp"
+            },
+            {
+                "id": "5ca2113f86f7740b2547e1d2",
+                "name": "Vulkan-5 helmet face shield",
+                "image512pxLink": "https://assets.tarkov.dev/5ca2113f86f7740b2547e1d2-512.webp"
+            },
+            {
+                "id": "5d5fca1ea4b93635fd598c07",
+                "name": "Crossbow tactical glasses",
+                "image512pxLink": "https://assets.tarkov.dev/5d5fca1ea4b93635fd598c07-512.webp"
+            },
+            {
+                "id": "5d6d2e22a4b9361bd5780d05",
+                "name": "Oakley SI Gascan glasses",
+                "image512pxLink": "https://assets.tarkov.dev/5d6d2e22a4b9361bd5780d05-512.webp"
+            },
+            {
+                "id": "5d6d2ef3a4b93618084f58bd",
+                "name": "RayBench Aviator glasses",
+                "image512pxLink": "https://assets.tarkov.dev/5d6d2ef3a4b93618084f58bd-512.webp"
+            },
+            {
+                "id": "5d6d3829a4b9361bc8618943",
+                "name": "LShZ-2DTM face shield",
+                "image512pxLink": "https://assets.tarkov.dev/5d6d3829a4b9361bc8618943-512.webp"
+            },
+            {
+                "id": "5e00cdd986f7747473332240",
+                "name": "Team Wendy EXFIL Ballistic face shield (Black)",
+                "image512pxLink": "https://assets.tarkov.dev/5e00cdd986f7747473332240-512.webp"
+            },
+            {
+                "id": "5e01f37686f774773c6f6c15",
+                "name": "Team Wendy EXFIL Ballistic face shield (Coyote Brown)",
+                "image512pxLink": "https://assets.tarkov.dev/5e01f37686f774773c6f6c15-512.webp"
+            },
+            {
+                "id": "5e71f70186f77429ee09f183",
+                "name": "Twitch Rivals 2020 glasses",
+                "image512pxLink": "https://assets.tarkov.dev/5e71f70186f77429ee09f183-512.webp"
+            },
+            {
+                "id": "5f60bf4558eff926626a60f2",
+                "name": "Galvion Caiman Fixed Arm Visor",
+                "image512pxLink": "https://assets.tarkov.dev/5f60bf4558eff926626a60f2-512.webp"
+            },
+            {
+                "id": "5f60c85b58eff926626a60f7",
+                "name": "Rys-T face shield",
+                "image512pxLink": "https://assets.tarkov.dev/5f60c85b58eff926626a60f7-512.webp"
+            },
+            {
+                "id": "603409c80ca681766b6a0fb2",
+                "name": "NPP KlASS Condor glasses",
+                "image512pxLink": "https://assets.tarkov.dev/603409c80ca681766b6a0fb2-512.webp"
+            },
+            {
+                "id": "61c18d83b00456371a66814b",
+                "name": "Gas welder safety goggles",
+                "image512pxLink": "https://assets.tarkov.dev/61c18d83b00456371a66814b-512.webp"
+            },
+            {
+                "id": "62a09e410b9d3c46de5b6e78",
+                "name": "JohnB Liquid DNB glasses",
+                "image512pxLink": "https://assets.tarkov.dev/62a09e410b9d3c46de5b6e78-512.webp"
+            },
+            {
+                "id": "62a61c988ec41a51b34758d5",
+                "name": "Oakley SI Batwolf glasses",
+                "image512pxLink": "https://assets.tarkov.dev/62a61c988ec41a51b34758d5-512.webp"
+            }
+        ]
+    }
+}

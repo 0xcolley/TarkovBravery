@@ -1,0 +1,291 @@
+{
+    "data": {
+        "items": [
+            {
+                "id": "544a5caa4bdc2d1a388b4568",
+                "name": "Crye Precision AVS plate carrier (Ranger Green)",
+                "image512pxLink": "https://assets.tarkov.dev/544a5caa4bdc2d1a388b4568-512.webp"
+            },
+            {
+                "id": "545cdb794bdc2d3a198b456a",
+                "name": "6B43 Zabralo-Sh body armor (Digital Flora)",
+                "image512pxLink": "https://assets.tarkov.dev/545cdb794bdc2d3a198b456a-512.webp"
+            },
+            {
+                "id": "5648a7494bdc2d9d488b4583",
+                "name": "PACA Soft Armor",
+                "image512pxLink": "https://assets.tarkov.dev/5648a7494bdc2d9d488b4583-512.webp"
+            },
+            {
+                "id": "59e7635f86f7742cbf2c1095",
+                "name": "BNTI Module-3M body armor",
+                "image512pxLink": "https://assets.tarkov.dev/59e7635f86f7742cbf2c1095-512.webp"
+            },
+            {
+                "id": "5ab8dced86f774646209ec87",
+                "name": "ANA Tactical M2 plate carrier (Digital Flora)",
+                "image512pxLink": "https://assets.tarkov.dev/5ab8dced86f774646209ec87-512.webp"
+            },
+            {
+                "id": "5ab8e4ed86f7742d8e50c7fa",
+                "name": "MF-UNTAR body armor",
+                "image512pxLink": "https://assets.tarkov.dev/5ab8e4ed86f7742d8e50c7fa-512.webp"
+            },
+            {
+                "id": "5ab8e79e86f7742d8b372e78",
+                "name": "BNTI Gzhel-K body armor",
+                "image512pxLink": "https://assets.tarkov.dev/5ab8e79e86f7742d8b372e78-512.webp"
+            },
+            {
+                "id": "5b44cad286f77402a54ae7e5",
+                "name": "5.11 Tactical TacTec plate carrier (Ranger Green)",
+                "image512pxLink": "https://assets.tarkov.dev/5b44cad286f77402a54ae7e5-512.webp"
+            },
+            {
+                "id": "5b44cd8b86f774503d30cba2",
+                "name": "IOTV Gen4 body armor (Full Protection Kit, MultiCam)",
+                "image512pxLink": "https://assets.tarkov.dev/5b44cd8b86f774503d30cba2-512.webp"
+            },
+            {
+                "id": "5b44cf1486f77431723e3d05",
+                "name": "IOTV Gen4 body armor (Assault Kit, MultiCam)",
+                "image512pxLink": "https://assets.tarkov.dev/5b44cf1486f77431723e3d05-512.webp"
+            },
+            {
+                "id": "5b44d0de86f774503d30cba8",
+                "name": "IOTV Gen4 body armor (High Mobility Kit, MultiCam)",
+                "image512pxLink": "https://assets.tarkov.dev/5b44d0de86f774503d30cba8-512.webp"
+            },
+            {
+                "id": "5b44d22286f774172b0c9de8",
+                "name": "BNTI Kirasa-N body armor",
+                "image512pxLink": "https://assets.tarkov.dev/5b44d22286f774172b0c9de8-512.webp"
+            },
+            {
+                "id": "5c0e3eb886f7742015526062",
+                "name": "6B5-16 Zh-86 Uley armored rig (Khaki)",
+                "image512pxLink": "https://assets.tarkov.dev/5c0e3eb886f7742015526062-512.webp"
+            },
+            {
+                "id": "5c0e446786f7742013381639",
+                "name": "6B5-15 Zh-86 Uley armored rig (Flora)",
+                "image512pxLink": "https://assets.tarkov.dev/5c0e446786f7742013381639-512.webp"
+            },
+            {
+                "id": "5c0e51be86f774598e797894",
+                "name": "6B13 assault armor (Flora)",
+                "image512pxLink": "https://assets.tarkov.dev/5c0e51be86f774598e797894-512.webp"
+            },
+            {
+                "id": "5c0e53c886f7747fa54205c7",
+                "name": "6B13 assault armor (Digital Flora)",
+                "image512pxLink": "https://assets.tarkov.dev/5c0e53c886f7747fa54205c7-512.webp"
+            },
+            {
+                "id": "5c0e541586f7747fa54205c9",
+                "name": "6B13 M assault armor (Killa Edition)",
+                "image512pxLink": "https://assets.tarkov.dev/5c0e541586f7747fa54205c9-512.webp"
+            },
+            {
+                "id": "5c0e57ba86f7747fa141986d",
+                "name": "6B23-2 body armor (Mountain Flora)",
+                "image512pxLink": "https://assets.tarkov.dev/5c0e57ba86f7747fa141986d-512.webp"
+            },
+            {
+                "id": "5c0e5bab86f77461f55ed1f3",
+                "name": "6B23-1 body armor (Digital Flora)",
+                "image512pxLink": "https://assets.tarkov.dev/5c0e5bab86f77461f55ed1f3-512.webp"
+            },
+            {
+                "id": "5c0e5edb86f77461f55ed1f7",
+                "name": "BNTI Zhuk body armor (Press)",
+                "image512pxLink": "https://assets.tarkov.dev/5c0e5edb86f77461f55ed1f7-512.webp"
+            },
+            {
+                "id": "5c0e625a86f7742d77340f62",
+                "name": "BNTI Zhuk body armor (Digital Flora)",
+                "image512pxLink": "https://assets.tarkov.dev/5c0e625a86f7742d77340f62-512.webp"
+            },
+            {
+                "id": "5c0e655586f774045612eeb2",
+                "name": "HighCom Trooper TFO body armor (MultiCam)",
+                "image512pxLink": "https://assets.tarkov.dev/5c0e655586f774045612eeb2-512.webp"
+            },
+            {
+                "id": "5c0e722886f7740458316a57",
+                "name": "ANA Tactical M1 plate carrier (Olive Drab)",
+                "image512pxLink": "https://assets.tarkov.dev/5c0e722886f7740458316a57-512.webp"
+            },
+            {
+                "id": "5c0e746986f7741453628fe5",
+                "name": "WARTECH TV-110 plate carrier (Coyote)",
+                "image512pxLink": "https://assets.tarkov.dev/5c0e746986f7741453628fe5-512.webp"
+            },
+            {
+                "id": "5ca2151486f774244a3b8d30",
+                "name": "FORT Redut-M body armor",
+                "image512pxLink": "https://assets.tarkov.dev/5ca2151486f774244a3b8d30-512.webp"
+            },
+            {
+                "id": "5ca21c6986f77479963115a7",
+                "name": "FORT Redut-T5 body armor (Smog)",
+                "image512pxLink": "https://assets.tarkov.dev/5ca21c6986f77479963115a7-512.webp"
+            },
+            {
+                "id": "5d5d646386f7742797261fd9",
+                "name": "6B3TM-01 armored rig (Khaki)",
+                "image512pxLink": "https://assets.tarkov.dev/5d5d646386f7742797261fd9-512.webp"
+            },
+            {
+                "id": "5d5d87f786f77427997cfaef",
+                "name": "Ars Arma A18 Skanda plate carrier (MultiCam)",
+                "image512pxLink": "https://assets.tarkov.dev/5d5d87f786f77427997cfaef-512.webp"
+            },
+            {
+                "id": "5df8a2ca86f7740bfe6df777",
+                "name": "6B2 body armor (Flora)",
+                "image512pxLink": "https://assets.tarkov.dev/5df8a2ca86f7740bfe6df777-512.webp"
+            },
+            {
+                "id": "5e4abb5086f77406975c9342",
+                "name": "LBT-6094A Slick Plate Carrier (Black)",
+                "image512pxLink": "https://assets.tarkov.dev/5e4abb5086f77406975c9342-512.webp"
+            },
+            {
+                "id": "5e4ac41886f77406a511c9a8",
+                "name": "Ars Arma CPC MOD.1 plate carrier (A-TACS FG)",
+                "image512pxLink": "https://assets.tarkov.dev/5e4ac41886f77406a511c9a8-512.webp"
+            },
+            {
+                "id": "5e9dacf986f774054d6b89f4",
+                "name": "FORT Defender-2 body armor",
+                "image512pxLink": "https://assets.tarkov.dev/5e9dacf986f774054d6b89f4-512.webp"
+            },
+            {
+                "id": "5f5f41476bdad616ad46d631",
+                "name": "NPP KlASS Korund-VM body armor (Black)",
+                "image512pxLink": "https://assets.tarkov.dev/5f5f41476bdad616ad46d631-512.webp"
+            },
+            {
+                "id": "5fd4c474dd870108a754b241",
+                "name": "5.11 Tactical Hexgrid plate carrier",
+                "image512pxLink": "https://assets.tarkov.dev/5fd4c474dd870108a754b241-512.webp"
+            },
+            {
+                "id": "6038b4b292ec1c3103795a0b",
+                "name": "LBT-6094A Slick Plate Carrier (Coyote Tan)",
+                "image512pxLink": "https://assets.tarkov.dev/6038b4b292ec1c3103795a0b-512.webp"
+            },
+            {
+                "id": "6038b4ca92ec1c3103795a0d",
+                "name": "LBT-6094A Slick Plate Carrier (Olive Drab)",
+                "image512pxLink": "https://assets.tarkov.dev/6038b4ca92ec1c3103795a0d-512.webp"
+            },
+            {
+                "id": "607f20859ee58b18e41ecd90",
+                "name": "PACA Soft Armor (Rivals Edition)",
+                "image512pxLink": "https://assets.tarkov.dev/607f20859ee58b18e41ecd90-512.webp"
+            },
+            {
+                "id": "609e8540d5c319764c2bc2e9",
+                "name": "NFM THOR Concealable Reinforced Vest body armor",
+                "image512pxLink": "https://assets.tarkov.dev/609e8540d5c319764c2bc2e9-512.webp"
+            },
+            {
+                "id": "609e860ebd219504d8507525",
+                "name": "Crye Precision AVS plate carrier (Tagilla Edition)",
+                "image512pxLink": "https://assets.tarkov.dev/609e860ebd219504d8507525-512.webp"
+            },
+            {
+                "id": "60a283193cb70855c43a381d",
+                "name": "NFM THOR Integrated Carrier body armor",
+                "image512pxLink": "https://assets.tarkov.dev/60a283193cb70855c43a381d-512.webp"
+            },
+            {
+                "id": "60a3c68c37ea821725773ef5",
+                "name": "CQC Osprey MK4A plate carrier (Protection, MTP)",
+                "image512pxLink": "https://assets.tarkov.dev/60a3c68c37ea821725773ef5-512.webp"
+            },
+            {
+                "id": "60a3c70cde5f453f634816a3",
+                "name": "CQC Osprey MK4A plate carrier (Assault, MTP)",
+                "image512pxLink": "https://assets.tarkov.dev/60a3c70cde5f453f634816a3-512.webp"
+            },
+            {
+                "id": "61bc85697113f767765c7fe7",
+                "name": "Eagle Industries MMAC plate carrier (Ranger Green)",
+                "image512pxLink": "https://assets.tarkov.dev/61bc85697113f767765c7fe7-512.webp"
+            },
+            {
+                "id": "61bcc89aef0f505f0c6cd0fc",
+                "name": "FirstSpear Strandhogg plate carrier (Ranger Green)",
+                "image512pxLink": "https://assets.tarkov.dev/61bcc89aef0f505f0c6cd0fc-512.webp"
+            },
+            {
+                "id": "628b9784bcf6e2659e09b8a2",
+                "name": "S&S Precision PlateFrame plate carrier (Goons Edition)",
+                "image512pxLink": "https://assets.tarkov.dev/628b9784bcf6e2659e09b8a2-512.webp"
+            },
+            {
+                "id": "628b9c7d45122232a872358f",
+                "name": "Crye Precision CPC plate carrier (Goons Edition)",
+                "image512pxLink": "https://assets.tarkov.dev/628b9c7d45122232a872358f-512.webp"
+            },
+            {
+                "id": "628cd624459354321c4b7fa2",
+                "name": "Tasmanian Tiger SK plate carrier (MultiCam Black)",
+                "image512pxLink": "https://assets.tarkov.dev/628cd624459354321c4b7fa2-512.webp"
+            },
+            {
+                "id": "628d0618d1ba6e4fa07ce5a4",
+                "name": "NPP KlASS Bagariy plate carrier (Digital Flora)",
+                "image512pxLink": "https://assets.tarkov.dev/628d0618d1ba6e4fa07ce5a4-512.webp"
+            },
+            {
+                "id": "628dc750b910320f4c27a732",
+                "name": "ECLiPSE RBAV-AF plate carrier (Ranger Green)",
+                "image512pxLink": "https://assets.tarkov.dev/628dc750b910320f4c27a732-512.webp"
+            },
+            {
+                "id": "62a09d79de7ac81993580530",
+                "name": "DRD body armor",
+                "image512pxLink": "https://assets.tarkov.dev/62a09d79de7ac81993580530-512.webp"
+            },
+            {
+                "id": "63737f448b28897f2802b874",
+                "name": "Hexatac HPC Plate Carrier (MultiCam Black)",
+                "image512pxLink": "https://assets.tarkov.dev/63737f448b28897f2802b874-512.webp"
+            },
+            {
+                "id": "639343fce101f4caa40a4ef3",
+                "name": "Shellback Tactical Banshee plate carrier (A-TACS AU)",
+                "image512pxLink": "https://assets.tarkov.dev/639343fce101f4caa40a4ef3-512.webp"
+            },
+            {
+                "id": "64a536392d2c4e6e970f4121",
+                "name": "WARTECH TV-115 plate carrier (Olive Drab)",
+                "image512pxLink": "https://assets.tarkov.dev/64a536392d2c4e6e970f4121-512.webp"
+            },
+            {
+                "id": "64a5366719bab53bd203bf33",
+                "name": "Eagle Allied Industries MBSS plate carrier (Coyote Brown)",
+                "image512pxLink": "https://assets.tarkov.dev/64a5366719bab53bd203bf33-512.webp"
+            },
+            {
+                "id": "64abd93857958b4249003418",
+                "name": "Interceptor OTV body armor (UCP)",
+                "image512pxLink": "https://assets.tarkov.dev/64abd93857958b4249003418-512.webp"
+            },
+            {
+                "id": "64be79c487d1510151095552",
+                "name": "NPP KlASS Kora-Kulon body armor (Black)",
+                "image512pxLink": "https://assets.tarkov.dev/64be79c487d1510151095552-512.webp"
+            },
+            {
+                "id": "64be79e2bf8412471d0d9bcc",
+                "name": "NPP KlASS Kora-Kulon body armor (Digital Flora)",
+                "image512pxLink": "https://assets.tarkov.dev/64be79e2bf8412471d0d9bcc-512.webp"
+            }
+        ]
+    }
+}

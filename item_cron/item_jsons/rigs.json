@@ -1,0 +1,271 @@
+{
+    "data": {
+        "items": [
+            {
+                "id": "544a5caa4bdc2d1a388b4568",
+                "name": "Crye Precision AVS plate carrier (Ranger Green)",
+                "image512pxLink": "https://assets.tarkov.dev/544a5caa4bdc2d1a388b4568-512.webp"
+            },
+            {
+                "id": "5648a69d4bdc2ded0b8b457b",
+                "name": "BlackRock chest rig (Gray)",
+                "image512pxLink": "https://assets.tarkov.dev/5648a69d4bdc2ded0b8b457b-512.webp"
+            },
+            {
+                "id": "572b7adb24597762ae139821",
+                "name": "Scav Vest",
+                "image512pxLink": "https://assets.tarkov.dev/572b7adb24597762ae139821-512.webp"
+            },
+            {
+                "id": "5929a2a086f7744f4b234d43",
+                "name": "UMTBS 6Sh112 Scout-Sniper chest rig (Digital Flora)",
+                "image512pxLink": "https://assets.tarkov.dev/5929a2a086f7744f4b234d43-512.webp"
+            },
+            {
+                "id": "592c2d1a86f7746dbe2af32a",
+                "name": "ANA Tactical Alpha chest rig (Olive Drab)",
+                "image512pxLink": "https://assets.tarkov.dev/592c2d1a86f7746dbe2af32a-512.webp"
+            },
+            {
+                "id": "59e7643b86f7742cbf2c109a",
+                "name": "WARTECH TV-109 + TV-106 chest rig (A-TACS FG)",
+                "image512pxLink": "https://assets.tarkov.dev/59e7643b86f7742cbf2c109a-512.webp"
+            },
+            {
+                "id": "5ab8dab586f77441cd04f2a2",
+                "name": "WARTECH MK3 TV-104 chest rig (MultiCam)",
+                "image512pxLink": "https://assets.tarkov.dev/5ab8dab586f77441cd04f2a2-512.webp"
+            },
+            {
+                "id": "5ab8dced86f774646209ec87",
+                "name": "ANA Tactical M2 plate carrier (Digital Flora)",
+                "image512pxLink": "https://assets.tarkov.dev/5ab8dced86f774646209ec87-512.webp"
+            },
+            {
+                "id": "5b44c8ea86f7742d1627baf1",
+                "name": "BlackHawk! Commando chest harness (Desert Tan)",
+                "image512pxLink": "https://assets.tarkov.dev/5b44c8ea86f7742d1627baf1-512.webp"
+            },
+            {
+                "id": "5b44cad286f77402a54ae7e5",
+                "name": "5.11 Tactical TacTec plate carrier (Ranger Green)",
+                "image512pxLink": "https://assets.tarkov.dev/5b44cad286f77402a54ae7e5-512.webp"
+            },
+            {
+                "id": "5c0e3eb886f7742015526062",
+                "name": "6B5-16 Zh-86 Uley armored rig (Khaki)",
+                "image512pxLink": "https://assets.tarkov.dev/5c0e3eb886f7742015526062-512.webp"
+            },
+            {
+                "id": "5c0e446786f7742013381639",
+                "name": "6B5-15 Zh-86 Uley armored rig (Flora)",
+                "image512pxLink": "https://assets.tarkov.dev/5c0e446786f7742013381639-512.webp"
+            },
+            {
+                "id": "5c0e6a1586f77404597b4965",
+                "name": "Poyas-A + Poyas-B gear rig",
+                "image512pxLink": "https://assets.tarkov.dev/5c0e6a1586f77404597b4965-512.webp"
+            },
+            {
+                "id": "5c0e722886f7740458316a57",
+                "name": "ANA Tactical M1 plate carrier (Olive Drab)",
+                "image512pxLink": "https://assets.tarkov.dev/5c0e722886f7740458316a57-512.webp"
+            },
+            {
+                "id": "5c0e746986f7741453628fe5",
+                "name": "WARTECH TV-110 plate carrier (Coyote)",
+                "image512pxLink": "https://assets.tarkov.dev/5c0e746986f7741453628fe5-512.webp"
+            },
+            {
+                "id": "5c0e9f2c86f77432297fe0a3",
+                "name": "BlackHawk! Commando chest harness (Black)",
+                "image512pxLink": "https://assets.tarkov.dev/5c0e9f2c86f77432297fe0a3-512.webp"
+            },
+            {
+                "id": "5ca20abf86f77418567a43f2",
+                "name": "Dynaforce Triton M43-A chest harness (Black)",
+                "image512pxLink": "https://assets.tarkov.dev/5ca20abf86f77418567a43f2-512.webp"
+            },
+            {
+                "id": "5d5d646386f7742797261fd9",
+                "name": "6B3TM-01 armored rig (Khaki)",
+                "image512pxLink": "https://assets.tarkov.dev/5d5d646386f7742797261fd9-512.webp"
+            },
+            {
+                "id": "5d5d85c586f774279a21cbdb",
+                "name": "Haley Strategic D3CRX Chest Harness (Ranger Green)",
+                "image512pxLink": "https://assets.tarkov.dev/5d5d85c586f774279a21cbdb-512.webp"
+            },
+            {
+                "id": "5d5d87f786f77427997cfaef",
+                "name": "Ars Arma A18 Skanda plate carrier (MultiCam)",
+                "image512pxLink": "https://assets.tarkov.dev/5d5d87f786f77427997cfaef-512.webp"
+            },
+            {
+                "id": "5d5d8ca986f7742798716522",
+                "name": "SOE Micro Rig (MultiCam)",
+                "image512pxLink": "https://assets.tarkov.dev/5d5d8ca986f7742798716522-512.webp"
+            },
+            {
+                "id": "5df8a42886f77412640e2e75",
+                "name": "Velocity Systems MPPV Multi-Purpose Patrol Vest (Wolf Grey)",
+                "image512pxLink": "https://assets.tarkov.dev/5df8a42886f77412640e2e75-512.webp"
+            },
+            {
+                "id": "5e4abc1f86f774069619fbaa",
+                "name": "Spiritus Systems Bank Robber chest rig (MultiCam Black)",
+                "image512pxLink": "https://assets.tarkov.dev/5e4abc1f86f774069619fbaa-512.webp"
+            },
+            {
+                "id": "5e4abfed86f77406a2713cf7",
+                "name": "Splav Tarzan M22 chest rig (Smog)",
+                "image512pxLink": "https://assets.tarkov.dev/5e4abfed86f77406a2713cf7-512.webp"
+            },
+            {
+                "id": "5e4ac41886f77406a511c9a8",
+                "name": "Ars Arma CPC MOD.1 plate carrier (A-TACS FG)",
+                "image512pxLink": "https://assets.tarkov.dev/5e4ac41886f77406a511c9a8-512.webp"
+            },
+            {
+                "id": "5e9db13186f7742f845ee9d3",
+                "name": "LBT-1961A Load Bearing Chest Rig (MAS Grey)",
+                "image512pxLink": "https://assets.tarkov.dev/5e9db13186f7742f845ee9d3-512.webp"
+            },
+            {
+                "id": "5f5f41f56760b4138443b352",
+                "name": "Direct Action Thunderbolt compact chest rig (Shadow Grey)",
+                "image512pxLink": "https://assets.tarkov.dev/5f5f41f56760b4138443b352-512.webp"
+            },
+            {
+                "id": "5fd4c4fa16cac650092f6771",
+                "name": "DIY IDEA chest rig",
+                "image512pxLink": "https://assets.tarkov.dev/5fd4c4fa16cac650092f6771-512.webp"
+            },
+            {
+                "id": "5fd4c5477a8d854fa0105061",
+                "name": "Security vest",
+                "image512pxLink": "https://assets.tarkov.dev/5fd4c5477a8d854fa0105061-512.webp"
+            },
+            {
+                "id": "5fd4c60f875c30179f5d04c2",
+                "name": "Gear Craft GC-BSS-MK1 chest rig (A-TACS FG)",
+                "image512pxLink": "https://assets.tarkov.dev/5fd4c60f875c30179f5d04c2-512.webp"
+            },
+            {
+                "id": "6034cf5fffd42c541047f72e",
+                "name": "Umka M33-SET1 hunter vest (Olive Drab)",
+                "image512pxLink": "https://assets.tarkov.dev/6034cf5fffd42c541047f72e-512.webp"
+            },
+            {
+                "id": "6034d0230ca681766b6a0fb5",
+                "name": "CSA chest rig (Black)",
+                "image512pxLink": "https://assets.tarkov.dev/6034d0230ca681766b6a0fb5-512.webp"
+            },
+            {
+                "id": "603648ff5a45383c122086ac",
+                "name": "Azimut SS \"Zhuk\" chest harness (Black)",
+                "image512pxLink": "https://assets.tarkov.dev/603648ff5a45383c122086ac-512.webp"
+            },
+            {
+                "id": "6040dd4ddcf9592f401632d2",
+                "name": "Azimut SS \"Zhuk\" chest harness (SURPAT)",
+                "image512pxLink": "https://assets.tarkov.dev/6040dd4ddcf9592f401632d2-512.webp"
+            },
+            {
+                "id": "609e860ebd219504d8507525",
+                "name": "Crye Precision AVS plate carrier (Tagilla Edition)",
+                "image512pxLink": "https://assets.tarkov.dev/609e860ebd219504d8507525-512.webp"
+            },
+            {
+                "id": "60a3c68c37ea821725773ef5",
+                "name": "CQC Osprey MK4A plate carrier (Protection, MTP)",
+                "image512pxLink": "https://assets.tarkov.dev/60a3c68c37ea821725773ef5-512.webp"
+            },
+            {
+                "id": "60a3c70cde5f453f634816a3",
+                "name": "CQC Osprey MK4A plate carrier (Assault, MTP)",
+                "image512pxLink": "https://assets.tarkov.dev/60a3c70cde5f453f634816a3-512.webp"
+            },
+            {
+                "id": "60a621c49c197e4e8c4455e6",
+                "name": "Stich Profi Chest Rig MK2 (Assault, A-TACS FG)",
+                "image512pxLink": "https://assets.tarkov.dev/60a621c49c197e4e8c4455e6-512.webp"
+            },
+            {
+                "id": "60a6220e953894617404b00a",
+                "name": "Stich Profi Chest Rig MK2 (Recon, A-TACS FG)",
+                "image512pxLink": "https://assets.tarkov.dev/60a6220e953894617404b00a-512.webp"
+            },
+            {
+                "id": "61bc85697113f767765c7fe7",
+                "name": "Eagle Industries MMAC plate carrier (Ranger Green)",
+                "image512pxLink": "https://assets.tarkov.dev/61bc85697113f767765c7fe7-512.webp"
+            },
+            {
+                "id": "61bcc89aef0f505f0c6cd0fc",
+                "name": "FirstSpear Strandhogg plate carrier (Ranger Green)",
+                "image512pxLink": "https://assets.tarkov.dev/61bcc89aef0f505f0c6cd0fc-512.webp"
+            },
+            {
+                "id": "628b9784bcf6e2659e09b8a2",
+                "name": "S&S Precision PlateFrame plate carrier (Goons Edition)",
+                "image512pxLink": "https://assets.tarkov.dev/628b9784bcf6e2659e09b8a2-512.webp"
+            },
+            {
+                "id": "628b9c7d45122232a872358f",
+                "name": "Crye Precision CPC plate carrier (Goons Edition)",
+                "image512pxLink": "https://assets.tarkov.dev/628b9c7d45122232a872358f-512.webp"
+            },
+            {
+                "id": "628baf0b967de16aab5a4f36",
+                "name": "LBT-1961A Load Bearing Chest Rig (Goons Edition)",
+                "image512pxLink": "https://assets.tarkov.dev/628baf0b967de16aab5a4f36-512.webp"
+            },
+            {
+                "id": "628cd624459354321c4b7fa2",
+                "name": "Tasmanian Tiger SK plate carrier (MultiCam Black)",
+                "image512pxLink": "https://assets.tarkov.dev/628cd624459354321c4b7fa2-512.webp"
+            },
+            {
+                "id": "628d0618d1ba6e4fa07ce5a4",
+                "name": "NPP KlASS Bagariy plate carrier (Digital Flora)",
+                "image512pxLink": "https://assets.tarkov.dev/628d0618d1ba6e4fa07ce5a4-512.webp"
+            },
+            {
+                "id": "628dc750b910320f4c27a732",
+                "name": "ECLiPSE RBAV-AF plate carrier (Ranger Green)",
+                "image512pxLink": "https://assets.tarkov.dev/628dc750b910320f4c27a732-512.webp"
+            },
+            {
+                "id": "63611865ba5b90db0c0399d1",
+                "name": "Azimut SS \"Khamelion\" chest harness (Olive)",
+                "image512pxLink": "https://assets.tarkov.dev/63611865ba5b90db0c0399d1-512.webp"
+            },
+            {
+                "id": "639343fce101f4caa40a4ef3",
+                "name": "Shellback Tactical Banshee plate carrier (A-TACS AU)",
+                "image512pxLink": "https://assets.tarkov.dev/639343fce101f4caa40a4ef3-512.webp"
+            },
+            {
+                "id": "64a536392d2c4e6e970f4121",
+                "name": "WARTECH TV-115 plate carrier (Olive Drab)",
+                "image512pxLink": "https://assets.tarkov.dev/64a536392d2c4e6e970f4121-512.webp"
+            },
+            {
+                "id": "64a5366719bab53bd203bf33",
+                "name": "Eagle Allied Industries MBSS plate carrier (Coyote Brown)",
+                "image512pxLink": "https://assets.tarkov.dev/64a5366719bab53bd203bf33-512.webp"
+            },
+            {
+                "id": "64be7095047e826eae02b0c1",
+                "name": "Zulu Nylon Gear M4 Reduced Signature Chest Rig (Ranger Green)",
+                "image512pxLink": "https://assets.tarkov.dev/64be7095047e826eae02b0c1-512.webp"
+            },
+            {
+                "id": "64be7110bf597ba84a0a41ea",
+                "name": "Type 56 Chicom chest harness",
+                "image512pxLink": "https://assets.tarkov.dev/64be7110bf597ba84a0a41ea-512.webp"
+            }
+        ]
+    }
+}
